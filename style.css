@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+body {
+    background-color: #e5e5e5;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #6070ff;
+}
+
+.list-inline-item {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    color: #344563;
+}
+
+header .container-fluid {
+    padding: 12rem 8rem;
+    background-image: url(./images/Aboutme-Big-screen.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-bottom-left-radius: 120px;
+    background-color: #fff;
+}
+
+.text-primary {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.ul pl-120 {
+    padding-left: 123;
+}
+
+.card-portfolio {
+    padding: 114px 25px;
+}
+
+.about-section {
+    border-top-right-radius: 120px;
+}
+
+.description h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+}
+
+.description p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #ebebff;    
+  }
+
+  .contact-section1 {
+    background-image: url(./images/contact\ form\ bkgr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #6070ff;
+    color: #fff;
+    padding: 142px 361px;
+  }
+
+  .mb-3 {
+    padding: 15px 38px -4px 16px;
+  }
