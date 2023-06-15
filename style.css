@@ -2,6 +2,10 @@
 
 body {
     background-color: #e5e5e5;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
 }
 
 .navbar-brand {
@@ -51,3 +55,29 @@ header .container-fluid {
 .about-section {
     border-top-right-radius: 120px;
 }
+
+.description h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+}
+
+.description p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #ebebff;    
+  }
+
+  .contact-section1 {
+    background-image: url(./images/contact\ form\ bkgr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #6070ff;
+    color: #fff;
+    padding: 142px 361px;
+  }
+
+  .mb-3 {
+    padding: 15px 38px -4px 16px;
+  }
